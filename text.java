@@ -9,5 +9,7 @@ public class text{
 		啊哈哈哈哈
 		嘎嘎嘎
 		git  git  git
+		
+		乱起八糟的
 	}
 }
